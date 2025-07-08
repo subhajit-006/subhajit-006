@@ -51,9 +51,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
