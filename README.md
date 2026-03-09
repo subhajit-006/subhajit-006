@@ -27,6 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@subhajit0123450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@subhajit0123450" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/subhajit debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit debnath" height="30" width="40" /></a>
 </p>
 
@@ -49,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg](https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg)" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
