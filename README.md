@@ -50,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg](https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg)" alt="photoshop" width="40" height="40"/>
+  <img src="(https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg)" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
