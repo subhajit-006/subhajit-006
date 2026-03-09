@@ -85,7 +85,7 @@
 </a>
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0ywDbtW7hHkPCR4kF1vRbVO6pxw2v5EGlQ&s" alt="django" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
 </a>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
