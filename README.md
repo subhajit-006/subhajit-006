@@ -12,8 +12,8 @@
 - 📝 Next I will Work On <span style="color:green">**AN OPEN-SOURCE PROJECT TO CONTRIBUTE TO THE DEVOLOPER COMMUNITY**</span>
 - 🌱 I’m currently learning **SOMETHING NEW FOR FUTURE WORLD.**.
 - 🤝 I’m looking to collaborate on [Collaboration Opportunities].
-- 👨‍💻 All of my projects are available at **MY GITHUB**([Click Here](https://github.com/subhajit-006))
-- 📫 How to reach me (subhajitdebnath2024@gmail.com).
+- 👨‍💻 All of my projects are available at **MY GITHUB**([GITHUB](https://github.com/subhajit-006))
+- 📫 How to reach me ([MAIL](subhajitdebnathofficial99@gmail.com)).
 - ⚡ Fun fact **I LOVE CREATING AND DESIGNING SOMETHINGS NEW**.
 - 🌐 Don't Forget To Checkout [Fushion pixel Labs](http://fushionpixel.vercel.app).
 
