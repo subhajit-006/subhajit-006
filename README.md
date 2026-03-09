@@ -73,8 +73,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-006&show_icons=true&locale=en&layout=compact" alt="subhajit-006" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit-006&show_icons=true&locale=en" alt="subhajit-006" /></p>
 
 ///<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit-006&" alt="subhajit-006" /></p>///
