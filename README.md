@@ -143,11 +143,11 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoft_excel" width="40" height="40"/>
-      <br>MS Excel
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
+        <br>MS Excel
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoft_powerpoint" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40" height="40"/>
       <br>PowerPoint
     </td>
     <td align="center" width="96">
@@ -182,11 +182,11 @@
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/matplotlib" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
       <br>Matplotlib
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/seaborn" width="40" height="40"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
       <br>Seaborn
     </td>
     <td align="center" width="96">
