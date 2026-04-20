@@ -1,121 +1,100 @@
-<h1 align="center">👋 HELLO, WELCOME TO MY OWN WORLD </h1>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Subhajit Debnath</h1>
+<h3 align="center">🚀 Developer | 🎨 Designer | 🔐 Cybersecurity Enthusiast</h3>
 
-<h3 align="center"> Hi 👋 I'm Subhajit</h3>
-<h3 align="center">A passionate softwer developer from India</h3>
-<h3 align="center">I'm a self-taught, code-wielding enthusiast, crafting digital wonders from India! Founder & CEO of *Fushion Pixel Labs*</h3>
-
-![My Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-## About Me 🙌
-- 🚀 I'm currently looking to **EXPLORING NEW OPPORTUNITIES IN IT WORLD**.
-- 🛠️ I have Recently Finished <span style="color:green">**MY OWN PORTFOLIO.**</span>
-- 📝 Next I will Work On <span style="color:green">**AN OPEN-SOURCE PROJECT TO CONTRIBUTE TO THE DEVOLOPER COMMUNITY**</span>
-- 🌱 I’m currently learning **SOMETHING NEW FOR FUTURE WORLD.**.
-- 🤝 I’m looking to collaborate on [Collaboration Opportunities].
-- 👨‍💻 All of my projects are available at **MY GITHUB**([GITHUB](https://github.com/subhajit-006))
-- 📫 How to reach me ([MAIL](subhajitdebnathofficial99@gmail.com)).
-- ⚡ Fun fact **I LOVE CREATING AND DESIGNING SOMETHINGS NEW**.
-- 🌐 Don't Forget To Checkout [Fushion pixel Labs](http://fushionpixel.vercel.app).
-
-## 🛠️ Languages and Tools:
-[Insert Icons or Badges for Technologies You Use]
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-006&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-006" /> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@subhajit0123450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@subhajit0123450" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/in/subhajit debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit debnath" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Learner;Creative+Designer" />
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-<div style="display: flex; align-items: flex-start; align: center;">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="cpp" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="react" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="js" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="mysql" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
-      <br>MongoDB
-    </td>
-  </tr>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/subhajit-006">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox"/>
+  </a>
+</p>
 
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="expressjs" />
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="40" height="40" alt="github" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
+# 💻 Tech Stack
 
-</table>
+## 🧠 Programming & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,html,css,bootstrap,tailwind" />
+</p>
 
+---
 
+## 🤖 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.icons8.com/color/48/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/pandas.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png"/>
+  <img src="https://img.icons8.com/color/48/keras.png"/>
+  <img src="https://img.icons8.com/color/48/scikit-learn.png"/>
+</p>
 
+---
 
-///<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit-006&" alt="subhajit-006" /></p>///
+## 🔐 Cybersecurity & Networking
+<p align="center">
+  <img src="https://img.icons8.com/color/48/kali-linux.png"/>
+  <img src="https://img.icons8.com/color/48/nmap.png"/>
+  <img src="https://img.icons8.com/color/48/wireshark.png"/>
+  <img src="https://img.icons8.com/color/48/metasploit.png"/>
+  <img src="https://img.icons8.com/color/48/sql.png"/>
+</p>
+
+---
+
+## 🎨 Design & Creativity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop.png"/>
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png"/>
+  <img src="https://img.icons8.com/color/48/canva.png"/>
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,mongodb,mysql,postman" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhajit-006&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit-006&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhajit-006&theme=tokyo-night" />
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
